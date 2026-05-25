@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyverify",
+        "uuid": 1426976,
+        "checksum": "xr8rls"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
